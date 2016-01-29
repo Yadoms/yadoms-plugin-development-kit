@@ -1,0 +1,14 @@
+{
+	"name": "{{ pluginName }}",
+	"description": "{{ description }}",
+	"configurationSchema": {
+		"myStringParamIdentifier": {
+			"name": "String parameter",
+			"description": "string parameter description"
+		},
+		"myIntParamIdentifier": {
+			"name": "Int parameter",
+			"description": "int parameter description"
+		}
+	}
+}

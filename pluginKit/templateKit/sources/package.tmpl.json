@@ -1,0 +1,20 @@
+{
+	"type": "{{ pluginName }}",
+	"version": "1.0",
+	"releaseType": "beta",
+	"author": "{{ author }}",
+	"url": "",
+	"credits": "",
+	"supportedPlatforms": "all",
+	"configurationSchema": {
+		"myStringParamIdentifier": {
+			"type": "string"
+		},
+		"myIntParamIdentifier": {
+			"type": "int",
+			"defaultValue": "42"
+		}
+	},
+	"supportManuallyDeviceCreation": "false",
+	"manuallyDeviceCreationConfigurationSchema": {}
+}

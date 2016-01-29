@@ -1,0 +1,22 @@
+body {
+  margin-top: 50px;
+}
+
+.headerDoc {
+    margin-top: 10px;
+    margin-bottom: 20px;
+	font-size: 24px;
+}
+
+/*Header*/
+.application-logo {
+    max-height: 50px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+.github-logo {
+    max-height: 50px;
+    margin-right: 10px;
+    margin-top: 2px;
+}

@@ -1,0 +1,14 @@
+﻿{
+	"name": "{{ pluginName }}",
+	"description": "{{ description }}",
+	"configurationSchema": {
+		"myStringParamIdentifier": {
+			"name": "Paramètre texte",
+			"description": "description du paramètre Texte"
+		},
+		"myIntParamIdentifier": {
+			"name": "Paramètre entier",
+			"description": "escription du paramètre Entier"
+		}
+	}
+}
